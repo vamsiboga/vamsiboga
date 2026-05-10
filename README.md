@@ -31,14 +31,6 @@
 * FastAPI Microservices
 * Cloud-Native Architectures
 
-🌎 Open to:
-
-* C2C Opportunities
-* 1099 Contracts
-* Applied AI Engineer Roles
-* GenAI Consultant Roles
-* AI Platform Engineering
-
 ---
 
 # 🌐 Connect With Me
